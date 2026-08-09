@@ -1,2 +1,3 @@
-.txt
+*.txt
 *report*.md
+*handoff*.md
