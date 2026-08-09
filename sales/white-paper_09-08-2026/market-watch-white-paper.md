@@ -55,7 +55,7 @@ NBS rebased its Consumer Price Index (CPI) in early 2025, moving the base
 year from 2009 to 2024 and expanding the food and non-food basket to
 roughly 934–960 items — up from around 740 in the prior methodology —
 collected from over 1,600 markets across all 36 states and the FCT, in
-line with international (ILO) statistical standards.[^3], [^4], [^5]
+line with international (ILO) statistical standards.[^3,] [^4,] [^5]
 
 Food carries the single heaviest weight in that index, because food
 consistently absorbs more than 55% of household spending for Nigeria's
@@ -70,7 +70,7 @@ publicly explain it as an "artificial spike" tied to base-year effects,
 leaving many ordinary readers unsure whether prices had genuinely eased or
 whether the number itself had simply shifted under a new methodology —
 even as NBS pointed to real, item-level relief in staples like tomatoes,
-garri, and eggs as part of the story.[^1], [^2], [^7]
+garri, and eggs as part of the story.[^1,] [^2,] [^7]
 
 None of this means NBS is doing its job badly — the rebasing itself is
 evidence of an institution actively modernizing its methodology. The point
@@ -134,7 +134,7 @@ not a problem Market Watch has to solve from first principles. Documented
 conversion-factor references for exactly these units already exist,
 including a dedicated handbook of local weights and measures compiled for
 Nigerian agricultural markets, and NBS's own field methodology already
-performs this same local-unit-to-standard conversion routinely.[^15], [^16]
+performs this same local-unit-to-standard conversion routinely.[^15,] [^16]
 The task ahead is mapping submissions onto an already-recognized standard,
 not inventing a new one.
 
@@ -161,7 +161,7 @@ compared FPCA's crowdsourced prices against prices collected by trained
 enumerators running a conventional survey over the same period
 (2021–2023). At monthly frequency, crowdsourced maize prices correlated
 with enumerator data at R = 0.99 (R² = 0.98), and rice at R = 0.93
-(R² = 0.87).[^9], [^10]
+(R² = 0.87).[^9,] [^10]
 
 In plain terms: ordinary people reporting what they paid, at scale,
 produced numbers that were statistically almost indistinguishable from a
@@ -184,11 +184,11 @@ complaint.
 
 | Initiative | What it does | How Market Watch differs |
 | --- | --- | --- |
-| NBS CPI (Food Index)[^4], [^6] | Official monthly survey, ~1,600 markets, state/zonal averages | Continuous, food item & market-specific, not monthly and averaged |
+| NBS CPI (Food Index)[^4,] [^6] | Official monthly survey, ~1,600 markets, state/zonal averages | Continuous, food item & market-specific, not monthly and averaged |
 | SBM Intelligence's Jollof Index[^12] | Tracks the cost of one representative dish across select markets, published periodically | Narrow by design (one dish, headline metric); Market Watch aims for broad, continuous, item-level coverage as infrastructure |
 | WFP mVAM[^13] | Phone-based surveys focused on food security and humanitarian response in vulnerable areas | Humanitarian-need focus, not general infrastructure; Market Watch targets the general population and general commerce nationwide |
 | FEWS NET Price Bulletins[^14] | Monthly bulletins compiling prices from partner data for early warning | Aggregates existing third-party data; Market Watch collects first-party data directly from the public |
-| JRC / FPCA[^8], [^9], [^17] | Proven crowdsourcing pilot, two states, small commodity set, project-based | Market Watch is the natural successor — same validated method, built as permanent, nationwide, Nigerian-owned infrastructure rather than a time-limited research project |
+| JRC / FPCA[^8], [^9,] [^17] | Proven crowdsourcing pilot, two states, small commodity set, project-based | Market Watch is the natural successor — same validated method, built as permanent, nationwide, Nigerian-owned infrastructure rather than a time-limited research project |
 | World Bank RTP[^11] | ML-imputed prices filling gaps between sparse survey data points | Estimates prices where data is missing; Market Watch generates first-party ground-truth data, reducing the need for estimation |
 
 Every major precedent validates the *method*. None of them is permanent,
