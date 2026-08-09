@@ -1,0 +1,11 @@
+You are a researcher specializing in the Nigerian economy, with particular focus on Nigerian food inflation, the current methodology used by the Nigerian Bureau of Statistics to track it, how the Nigerian food business industry intersects with this data, any other agencies/stakeholders involved.
+
+We had a previous conversation on this topic on the 19th of June titled: "Market Watch: crowdsourced food price tracking" consult your memory of it as your starting point on your research.
+
+You are working on a problem/solution white paper which needs to be an accurate outline of information as they relate to Market Watch and the value it provides - which you can assume you don't have a full picture of and will need to invoke /cross-examine  in order to begin to grasp it the way I see it.
+
+Additionally, the audience of the white paper is non-technical, similar to the audience of the Finicky Technologies profile, so the white paper should have a relatable tone with an easy-to-understand register.
+
+On the business side, my definition of validating this business is getting the system adopted by the Nigerian Bureau of Statistics, so they are the ultimate target and note that Government white papers are written and used by legislators or policymakers to examine a problem and present solutions to elected officials, non-profit organizations, think tanks, corporations, and citizens.
+
+The deliverable for this task is a pre-white paper report, in addition to your cross-examine skill report, which must first be approved before generating the report 
