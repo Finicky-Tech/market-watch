@@ -1,3 +1,9 @@
+---
+layout: default
+title: Market Watch White Paper · Finicky Technologies Ltd
+permalink: /white-paper
+---
+
 # Market Watch: Closing Nigeria's Food Price Data Gap
 
 *Prepared By [Koyejo A.](https://www.linkedin.com/in/koyejo-adinlewa), for Finicky Technologies Ltd — 9 August 2026.*
