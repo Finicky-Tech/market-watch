@@ -10,6 +10,17 @@ permalink: /white-paper
 
 ---
 
+## Table of Contents
+
+- [Executive Summary](#executive-summary)
+- [1. The Problem: What the Official Number Doesn't Tell You](#1-the-problem-what-the-official-number-doesnt-tell-you)
+- [2. The Solution: Market Watch](#2-the-solution-market-watch)
+- [3. Why We Believe This Will Work](#3-why-we-believe-this-will-work)
+- [4. Wider Value: Beyond NBS](#4-wider-value-beyond-nbs)
+- [5. A Path Forward: Working Toward Partnership with NBS](#5-a-path-forward-working-toward-partnership-with-nbs)
+- [6. Closing](#6-closing)
+- [References](#references)
+
 ## Executive Summary
 
 Every month, the National Bureau of Statistics (NBS) tells Nigeria how much
