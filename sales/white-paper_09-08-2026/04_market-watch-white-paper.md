@@ -17,7 +17,7 @@ permalink: /white-paper
 - [2. The Solution: Market Watch](#2-the-solution-market-watch)
 - [3. Why We Believe This Will Work](#3-why-we-believe-this-will-work)
 - [4. Wider Value: Beyond NBS](#4-wider-value-beyond-nbs)
-- [5. A Path Forward: Working Toward Partnership with NBS](#5-a-path-forward-working-toward-partnership-with-nbs)
+- [5. A Path Forward: Working Toward Partnership with Nigeria Bureau of Statistics](#5-a-path-forward-working-toward-partnership-with-nbs)
 - [6. Closing](#6-closing)
 - [References](#references)
 
