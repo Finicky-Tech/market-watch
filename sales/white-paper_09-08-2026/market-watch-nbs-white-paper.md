@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Market Watch White Paper · Finicky Technologies Ltd
-permalink: /white-paper
+title: Market Watch NBS White Paper · Finicky Technologies Ltd
+permalink: /nbs/white-paper
 ---
 
 # Market Watch: Closing Nigeria's Food Price Data Gap
 
-*Prepared By [Koyejo A.](https://www.linkedin.com/in/koyejo-adinlewa), for [Finicky Technologies Ltd](https://finicky-tech.github.io/company-profile/intro) — 9 August 2026.*
+**Prepared By [Koyejo A.](https://www.linkedin.com/in/koyejo-adinlewa), for [Finicky Technologies Ltd](https://finicky-tech.github.io/company-profile/intro)**  
+*Nigeria Bureau of Statistics Edition — August 2026*
 
 ---
 
@@ -17,7 +18,7 @@ permalink: /white-paper
 - [2. The Solution: Market Watch](#2-the-solution-market-watch)
 - [3. Why We Believe This Will Work](#3-why-we-believe-this-will-work)
 - [4. Wider Value: Beyond NBS](#4-wider-value-beyond-nbs)
-- [5. A Path Forward: Working Toward Partnership with NBS](#5-a-path-forward-working-toward-partnership-with-nbs)
+- [5. A Path Forward: Working Toward Partnership with Nigeria Bureau of Statistics](#5-a-path-forward-working-toward-partnership-with-nbs)
 - [6. Closing](#6-closing)
 - [References](#references)
 
