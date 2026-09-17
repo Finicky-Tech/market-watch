@@ -29,9 +29,10 @@ abstractions that obscure intent.
 
 ## Documentation
 
-| Document | Purpose |
-| --- | --- |
-| [Market Watch: Closing Nigeria's Food Price Gap](./sales/white-paper_09-08-2026/market-watch-white-paper.md) | The problem/solution white paper — the primary external-facing document, written for a non-technical audience up to and including NBS, legislators, and policy analysts. |
+| Document                                                                                                                                                       | Audience                          | Purpose                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [Market Watch: Closing Nigeria's Food Price Gap](./sales/white-paper_09-08-2026/market-watch-nbs-white-paper.md)                                               | Nigeria Bureau of Statistic (NBS) | The problem/solution white paper written for a non-technical audience up to and including NBS, legislators, and policy analysts. |
+| [Market Watch: Turning Nigeria’s Food Price Intelligence Into Real-Time Infrastructure](./sales/white-paper-v2_17-09-2026/market-watch-investor-whitepaper.md) | Regular investors & Partners      | The problem/solution white paper written for a non-technical audience of investors and partners                                  |
 
 Documentation for the API and frontend systems currently lives alongside
 each repository rather than in this shared docs set.
